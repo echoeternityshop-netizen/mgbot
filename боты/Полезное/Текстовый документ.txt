@@ -1,2 +1,0 @@
-cd "C:\Users\Skalyy\Desktop\боты"
-& "C:\Users\Skalyy\AppData\Local\Programs\Python\Python311\python.exe" mg.py
